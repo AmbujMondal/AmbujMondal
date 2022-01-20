@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @AmbujMondal
-- 👀 I’m interested in technology and latest developments in the field of AI and AR
+- 😎 I am an advanced level Fullstack developer with extensive expertise in backend bassed on .net/C# Web applications
+- ✌ I have knowledge on DevSecOps and am a certified scrum Master.
+- 👀 I’m interested in the latest technological developments in the field of AI and AR
 - 🌱 I’m currently learning Knowledge Graphs, Natural Language Processing, Machine learning, Python, and GoLang
 - 💞️ I’m looking to collaborate on topics of similar interest.
 - 📫 How to reach me - just mail me.
