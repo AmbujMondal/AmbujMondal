@@ -4,7 +4,7 @@
 - 👀 I’m interested in the latest technological developments in the field of AI and AR
 - 🌱 I’m currently learning Knowledge Graphs, Natural Language Processing, Machine learning, Python, and GoLang
 - 💞️ I’m looking to collaborate on topics of similar interest.
-- 📫 How to reach me - just mail me.
+- 📫 How to reach me - just mail me at ambuj.mondal@gmail.com.
 
 <!---
 AmbujMondal/AmbujMondal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
